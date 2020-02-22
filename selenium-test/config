@@ -1,0 +1,2 @@
+goals: -P chrome,localhost,nogrid test
+parameters: webdriver.chrome.driver   Drivers/chromedriver.exe
